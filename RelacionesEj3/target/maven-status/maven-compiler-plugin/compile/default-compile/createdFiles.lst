@@ -1,0 +1,5 @@
+Entidades\Baraja.class
+JuegoDeCartas\JuegoDeCartas.class
+Service\JuegoService.class
+Entidades\Carta.class
+Enum\Palo.class
